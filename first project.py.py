@@ -1,9 +1,9 @@
-name= "nitin" 
+name= "nitin"
 eng=72
-maths=60
-science =75
+maths=80
+science =45
 sst=78
-hindi=80
+hindi=90
 #calculate total marks and persantage 
 total=eng+maths+science+sst+hindi
 persantage=(total/5)
